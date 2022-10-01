@@ -32,7 +32,6 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-aws-secret.yaml
 
 .DS_Store
 Thumbs.db
@@ -44,3 +43,5 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 set_env.sh
+.travis.yml
+aws-secret.yaml
