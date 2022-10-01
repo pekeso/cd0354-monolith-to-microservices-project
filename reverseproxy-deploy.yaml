@@ -24,3 +24,4 @@ spec:
                 name: env-configmap
             - secretRef:
                 name: env-psql-secrets
+          
